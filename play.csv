@@ -1,0 +1,15 @@
+Day,outlook,Temperature,Humidity,Wind,PlayCricket
+1,sunny,Hot,High,Weak,No
+2,sunny,Hot,High,strong,No
+3,overcast,hot,High,weak,yes
+4,Rain,mild,High,weak,yes
+5,Rain,cool,Normal,weak,yes
+6,rain,cool,Normal,strong,No
+7,overcast,cool,Normal,strong,yes
+8,sunny,Mild,High,weak,No
+9,sunny,cool,Normal,weak,yes
+10,rain,mild,Normal,weak,yes
+11,sunny,mild,Normal,strong,yes
+12,overcast,mild,High,strong,yes
+13,overcast,Hot,Normal,weak,yes
+14,Rain,mild,High,strong,NO
